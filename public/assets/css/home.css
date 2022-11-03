@@ -1,0 +1,8 @@
+.item-new .img-new {
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+/*# sourceMappingURL=home.css.map */
